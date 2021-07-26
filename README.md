@@ -34,6 +34,7 @@
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danny-05&show_icons=true&locale=en&layout=compact" alt="danny-05" /></p>
 
+  <div>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danny-05&show_icons=true&locale=en" alt="danny-05" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danny-05&" alt="danny-05" /></p>
