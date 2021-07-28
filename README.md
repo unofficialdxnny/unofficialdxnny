@@ -34,7 +34,10 @@
 <p><a href="unofficialdxnny"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/unofficialdxnny" /></a></p><br><br>
 <div>
   
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danny-05&show_icons=true&locale=en&layout=compact" alt="danny-05" /></p>
+<p>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=koyashie07&theme=tokyonight&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koyashie07&layout=compact&theme=tokyonight)
+<br/><br/></p>
 
   <div>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danny-05&show_icons=true&locale=en" alt="danny-05" /></p>
