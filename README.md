@@ -36,7 +36,7 @@
   
 <p>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=koyashie07&theme=tokyonight&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koyashie07&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DANNY-05&layout=compact&theme=tokyonight)
 <br/><br/></p>
 
   <div>
