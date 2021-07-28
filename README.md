@@ -37,7 +37,7 @@
 <p>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DANNY-05&theme=tokyonight&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DANNY-05&layout=compact&theme=tokyonight)
-<br/><br/></p>
+<br/><br/>
 
   <div>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DANNY-05&theme=tokyonight&show_icons=true" alt="danny-05" /></p>
