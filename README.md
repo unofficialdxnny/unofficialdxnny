@@ -34,7 +34,7 @@
 <p><a href="unofficialdxnny"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/unofficialdxnny" /></a></p><br><br>
 <div>
   
-<p>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=koyashie07&theme=tokyonight&show_icons=true)
+<p>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DANNY-05&theme=tokyonight&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DANNY-05&layout=compact&theme=tokyonight)
 <br/><br/></p>
