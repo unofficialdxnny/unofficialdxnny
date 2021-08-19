@@ -9,7 +9,7 @@
 <b><i>💻 I'm a Student & A part time Programmer</i></b>
 
 <h3><b><i>🤠 About me :</i></b></h3>
-<li> UK <i>Live in London</i></li>
+<li> 🇬🇧 <i>Live in London</i></li>
 <li> 😇 <i>Muslim</i></li>
 <li> 😐 <i>Student. Fav subject is CS</i></li>
 <li> 😪 <i>Love Sleeping</i></li>
