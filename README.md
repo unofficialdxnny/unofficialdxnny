@@ -20,7 +20,7 @@
 <h3><b><i>☠ Works :</i></b></h3>
 
 ```
-$ git clone git://github.com/htr-tech/zphisher.git
+<li> <a href="https://github.com/DANNY-05/password-generator">PassGen - Automated password gen with unlimited characters.</a>
 ```
 <li> <a href="https://github.com/DANNY-05/password-generator">PassGen - Automated password gen with unlimited characters.</a>
 <li> <a href="https://github.com/DANNY-05/wasd">WASD - A words per minuite test with advanced AI.</a>
