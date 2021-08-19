@@ -24,10 +24,9 @@
 
 
 
-<h3><b><i>🏆 Profile Statistics :</i></b></h3>
-<a href="https://github.com/Danny-05"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=Danny-05&color=blueviolet&style=flat-square"></a>
+
 
 <h3><b><i>📡 Get in Touch :</i></b></h3>
-<a href="https://github.com/htr-tech"><img align="left" title="Github" alt="Github" width="30px" src="assets/github.png" /></a>
-<a href="https://www.instagram.com/tahmid.rayat"><img align="left" title="Instagram" alt="Instagram" width="30px" src="assets/instagram.png" /></a>
+<a href="https://github.com/Danny-05"><img align="left" title="Github" alt="Github" width="30px" src="github.png" /></a>
+<a href="https://www.instagram.com/unofficialdxnny"><img align="left" title="Instagram" alt="Instagram" width="30px" src="instagram.png" /></a>
 
