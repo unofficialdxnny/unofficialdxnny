@@ -13,7 +13,7 @@
 <li> 😇 <i>Muslim</i></li>
 <li> 😐 <i>Student. Fav subject is CS</i></li>
 <li> 😪 <i>Love Sleeping</i></li>
-<li> 💔 <i>Born Single</i></li>
+<li> 💔 <i>Born/Living Single</i></li>
 <li> 🐍 <i>Trying to learn Python</i></li>
 <li> 🤐 <i>Aim : Become a Web developer and make my parents proud :)</i></li>
 
