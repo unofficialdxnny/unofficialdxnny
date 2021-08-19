@@ -18,19 +18,12 @@
 <li> 🤐 <i>Aim : Become a Web developer and make my parents proud :)</i></li>
 
 <h3><b><i>☠ Works :</i></b></h3>
+<li> <a href="https://github.com/DANNY-05/password-generator">PassGen - Automated password gen with unlimited characters.</a>
+<li> <a href="https://github.com/DANNY-05/password-generator">PassGen - Automated password gen with unlimited characters.</a>
 
-```
-<li> <a href="https://github.com/DANNY-05/password-generator">PassGen - Automated password gen with unlimited characters.</a>
-```
-<li> <a href="https://github.com/DANNY-05/password-generator">PassGen - Automated password gen with unlimited characters.</a>
-<li> <a href="https://github.com/DANNY-05/wasd">WASD - A words per minuite test with advanced AI.</a>
-<li> <a href="https://github.com/hax0rtahm1d/Reverse-Engineering">Reverse Engineering - Some Tools Reverse Engineered by me.</a>
-<li> <a href="https://github.com/htr-tech/host">Host - Temporarily Host Files from your device with this tool.</a>
-<li> <a href="https://github.com/htr-tech/track-ip">Track-IP - An IP Tracking Tool written in Bash.</a>
-<li> <a href="https://github.com/modded-ubuntu/modded-ubuntu">Modded Ubuntu - Run Ubuntu GUI on termux based on Proot-Distro.</a>
 
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
-<a href="https://github.com/htr-tech"><img width=550 src="https://github-profile-trophy.vercel.app/?username=htr-tech&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
+<a href="https://github.com/Danny-05"><img width=550 src="https://github-profile-trophy.vercel.app/?username=Danny-05&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 
 <h3><b><i>🏆 Profile Statistics :</i></b></h3>
 <a href="https://github.com/htr-tech"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=htr-tech&color=blueviolet&style=flat-square"></a>
