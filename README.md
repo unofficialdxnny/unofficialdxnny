@@ -18,8 +18,8 @@
 <li> 🤐 <i>Aim : Become a Web developer and make my parents proud :)</i></li>
 
 <h3><b><i>☠ Works :</i></b></h3>
-<li> <a href="https://github.com/htr-tech/zphisher">Zphisher - Automated Phishing Tool with 30+ Unique Phishing Templates.</a>
-<li> <a href="https://github.com/htr-tech/nexphisher">NexPhisher - Advanced Phishing Tool with Unique Phishing Templates.</a>
+<li> <a href="https://github.com/DANNY-05/password-generator">PassGen - Automated password gen with unlimited characters.</a>
+<li> <a href="https://github.com/DANNY-05/wasd">WASD - A words per minuite test with advanced AI.</a>
 <li> <a href="https://github.com/hax0rtahm1d/Reverse-Engineering">Reverse Engineering - Some Tools Reverse Engineered by me.</a>
 <li> <a href="https://github.com/htr-tech/host">Host - Temporarily Host Files from your device with this tool.</a>
 <li> <a href="https://github.com/htr-tech/track-ip">Track-IP - An IP Tracking Tool written in Bash.</a>
