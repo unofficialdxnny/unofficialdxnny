@@ -18,7 +18,7 @@
 <li> 🤐 <i>Aim : Become a Web developer and make my parents proud :)</i></li>
 
 <h3><b><i>☠ Works :</i></b></h3>
-<li> <a href="https://github.com/DANNY-05/password-generator">WASD - A wpm test with advanced AI</a>
+<li> <a href="https://github.com/DANNY-05/wasd">WASD - A wpm test with advanced AI</a>
 <li> <a href="https://github.com/DANNY-05/password-generator">PassGen - Automated password gen with unlimited characters.</a>
 
 
