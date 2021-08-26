@@ -5,17 +5,17 @@
 <a href="https://github.com/Danny-05"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danny-05&layout=compact&theme=react&hide_border=true" />
 </a></p>
 
-<h2><b><i>Hello , it's Danial Ahmed 👋</i></b></h2>
+<h2><b><i>Hello , I'm  Dan 👋</i></b></h2>
 <b><i>💻 I'm a Student & A part time Programmer</i></b>
 
 <h3><b><i>🤠 About me :</i></b></h3>
 <li> 🇬🇧 <i>Live in London</i></li>
-<li> 😇 <i>Muslim</i></li>
+
 <li> 😐 <i>Student. Fav subject is CS</i></li>
-<li> 😪 <i>Love Sleeping</i></li>
-<li> 💔 <i>Born/Living Single</i></li>
+<li> ❤️ <i>Love Sleeping</i></li>
+
 <li> 🐍 <i>Trying to learn Python</i></li>
-<li> 🤐 <i>Aim : Become a Web developer and make my parents proud :)</i></li>
+<li> 🤐 <i>Aim : Become a Web developer</i></li>
 
 <h3><b><i>☠ Works :</i></b></h3>
 <li> <a href="https://github.com/DANNY-05/wasd">WASD - A wpm test with advanced AI</a>
