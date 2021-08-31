@@ -4,7 +4,7 @@
 &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Danny-05"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danny-05&layout=compact&theme=react&hide_border=true" />
 </a></p>
-
+<h2 align="center">
 <h2><b><i>Hello , I'm  Dan 👋</i></b></h2>
 <b><i>💻 I'm a Student & A part time Programmer</i></b>
 
