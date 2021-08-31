@@ -5,12 +5,21 @@
 <a href="https://github.com/Danny-05"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danny-05&layout=compact&theme=react&hide_border=true" />
 </a></p>
 
-    <div class="topnav">
-      <a class="active" href="#home">Home</a>
-      <a href="#news">News</a>
-      <a href="#contact">Contact</a>
-      <a href="#about">About</a>
-    </div>
+   <!DOCTYPE html>
+<html>
+<head>
+<title>bankrpt | Home</title>
+  <head>
+    <link href="https://fonts.googleapis.com/css2?family=Oswald&display=swap" rel="stylesheet">
+   <link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet">
+      <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+      <link rel="stylesheet" href="style.css">
+
+      
+ 
+        </head>
+    </head>
+  <body>
     
 
     
