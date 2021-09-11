@@ -1,4 +1,7 @@
 <!-- Github README -->
+
+![Visitor Count](https : //profile-counter.glitch.me/{Danny-05}/count.svg)
+
 <p align="center"><a href="https://github.com/Danny-05">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Danny-05&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
 &nbsp;&nbsp;&nbsp;
