@@ -17,10 +17,7 @@
 <li> 🐍 <i>Trying to learn Python</i></li>
 <li> 🤐 <i>Aim : Become a Web developer</i></li>
 
-<h3><b><i>☠ Works :</i></b></h3>
-<li> <a href="https://github.com/DANNY-05/wasd">WASD - A wpm test with advanced AI</a>
-<li> <a href="https://github.com/DANNY-05/password-generator">PassGen - Automated password gen with unlimited characters.</a>
-
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=ahmeddanial&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=ahmeddanial&cover_image=true&theme=novatorem)]]
 
 
 
