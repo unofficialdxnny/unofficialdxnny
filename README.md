@@ -16,8 +16,8 @@
 
 <li> 🐍 <i>Trying to learn Python</i></li>
 <li> 🤐 <i>Aim : Become a Web developer</i></li>
-<align="center">
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ahmeddanial&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
+
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ahmeddanial&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
 
 
