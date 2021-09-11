@@ -29,7 +29,7 @@
 <a href="https://github.com/Danny-05"><img align="left" title="Github" alt="Github" width="30px" src="github.png" /></a>
 <a href="https://www.instagram.com/unofficialdxnny"><img align="left" title="Instagram" alt="Instagram" width="30px" src="instagram.png" /></a>
 
-  
+<img src="https://camo.githubusercontent.com/ce59733ab17541cd60c5a8017a92965e5e1f01085f7612535b7203af318fb1da/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f39362f3030303030302f646973636f72642d6c6f676f2e706e67" alt="discord" data-canonical-src="https://img.icons8.com/color/96/000000/discord-logo.png" style="max-width: 100%;">
 
   
 <img src="https://camo.githubusercontent.com/34aea540bf3f192f46350026cc46d9bbe5dd324861f03815f3a25cfe9627bd10/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d6d6174796f39312e6d6174796f3931" alt="visitor badge" data-canonical-src="https://visitor-badge.glitch.me/badge?page_id=Danny-05" style="max-width: 100%;">
