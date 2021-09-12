@@ -6,14 +6,14 @@
 &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Danny-05"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danny-05&layout=compact&theme=react&hide_border=true" />
 </a></p>
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><h1>Hey There</h1>
-<a href="https://discord.gg/XTW52Kt">
+<i width="25px"><h1>Hey There</h1>
+<a href="https://discord.gg/BzstdgPp6J">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://twitter.com/abhisheknaiidu">
+<a href="https://twitter.com/unofficiald4"
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
+<a href="https://open.spotify.com/user/ahmeddanial?si=Nil31S_nSYS_Y6tPMqBBqw">
   <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
