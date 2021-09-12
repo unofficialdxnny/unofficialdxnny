@@ -20,7 +20,7 @@
 Hi im <a href="#">Dan</a> Im a self taught front end webdeveloper, See <a href="https://github.com/Danny-05/repositories/">my works</a><br>
 Currently Im learning Python.
 
-💼 For any freelancing work please <a href="https://instagram.com/unofficialdxnny">Contact me</a><br>
+💼 For any freelancing work please <a href="https://instagram.com/unofficialdxnny" target="blank">Contact me</a><br>
 💬 ask me about anything, i am happy to help :)
 
 <br>
