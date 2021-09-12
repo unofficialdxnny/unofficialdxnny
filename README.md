@@ -6,37 +6,30 @@
 &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Danny-05"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danny-05&layout=compact&theme=react&hide_border=true" />
 </a></p>
-<h2 align="center">
-<h2><b><i>Hello , I'm  Dan 👋</i></b></h2>
-<b><i>💻 I'm a Student & A part time Programmer</i></b>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><h1>Hey There</h1>
+<a href="https://discord.gg/XTW52Kt">
+  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://twitter.com/abhisheknaiidu">
+  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
+  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+</a>
 
-<h3><b><i>🤠 About me :</i></b></h3>
-<li> 🇬🇧 <i>Live in London</i></li>
+Hi im <a href="#">Dan</a> Im a self taught front end webdeveloper, See <a href="https://github.com/Danny-05/repositories/">my works</a><br>
+Currently Im learning Python.
 
-<li> 😐 <i>Student. Fav subject is CS</i></li>
-<li> ❤️ <i>Love Sleeping</i></li>
+💼 For any freelancing work please <a href="https://instagram.com/unofficialdxnny">Contact me</a><br>
+💬 ask me about anything, i am happy to help :)
 
-<li> 🐍 <i>Trying to learn Python</i></li>
-<li> 🤐 <i>Aim : Become a Web developer</i></li>
+<br>
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ahmeddanial&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
-![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-
-
-
-
-<h3><b><i>📡 Get in Touch :</i></b></h3>
-<a href="https://github.com/Danny-05"><img align="left" title="Github" alt="Github" width="30px" src="github.png" /></a>
-<a href="https://www.instagram.com/unofficialdxnny"><img align="left" title="Instagram" alt="Instagram" width="30px" src="instagram.png" /></a>
-
-
-
-  
-<img src="https://camo.githubusercontent.com/34aea540bf3f192f46350026cc46d9bbe5dd324861f03815f3a25cfe9627bd10/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d6d6174796f39312e6d6174796f3931" alt="visitor badge" data-canonical-src="https://visitor-badge.glitch.me/badge?page_id=Danny-05" style="max-width: 100%;">
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ahmeddanial&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=ahmeddanial&redirect=true)
