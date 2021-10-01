@@ -17,6 +17,12 @@
   <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
+<p align="center">
+  <a href="#">
+      <img src="https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A" />
+   </a>
+</p>
+
 Hi im <a href="#">Dan</a> Im a self taught front end webdeveloper, See <a href="https://github.com/Danny-05/repositories/">my works</a><br>
 Currently Im learning Python.
 
