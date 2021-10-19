@@ -56,3 +56,8 @@ Currently Im learning Python.
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ahmeddanial&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=ahmeddanial&redirect=true)
 
+
+I can talk in these languages:<br>
+Englan : 🇬🇧 <br>
+Urdu/Hindi : Pakistan	 <br>
+
