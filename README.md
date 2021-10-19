@@ -6,7 +6,7 @@
 &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Danny-05"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danny-05&layout=compact&theme=react&hide_border=true" />
 </a></p>
-<i width="25px"><h1>Hey There</h1>
+<i width="25px"><h1>Hey There Im Dan!</h1>
 <a href="https://discord.gg/BzstdgPp6J">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
