@@ -23,6 +23,14 @@
    </a>
 </p>
 
+I'm programming using Node.js language
+
+Wanna talk to me?
+* Open your Discord and add `Danny-05#8301`
+* Join my server (COMING SOON)
+* Email to (COMING SOON)
+
+***
 Hi im <a href="#">Dan</a> Im a self taught front end webdeveloper, See <a href="https://github.com/Danny-05/repositories/">my works</a><br>
 Currently Im learning Python.
 
@@ -37,6 +45,7 @@ Currently Im learning Python.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ahmeddanial&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=ahmeddanial&redirect=true)
 
