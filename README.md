@@ -31,6 +31,13 @@ Wanna talk to me?
 * Email to (COMING SOON)
 
 ***
+
+***
+- [Tunez Therapy](https://tuneztherapy.netlify.app)
+  - Owner
+  - Available on Discord
+
+***
 Hi im <a href="#">Dan</a> Im a self taught front end webdeveloper, See <a href="https://github.com/Danny-05/repositories/">my works</a><br>
 Currently Im learning Python.
 
