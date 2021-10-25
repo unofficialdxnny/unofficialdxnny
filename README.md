@@ -1,12 +1,9 @@
 
-<img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif">
 <i width="25px"><h1>Hey There Im Dan!</h1>
 <a href="https://discord.gg/BzstdgPp6J">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://twitter.com/unofficiald4"
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
+
 <a href="https://open.spotify.com/user/ahmeddanial?si=Nil31S_nSYS_Y6tPMqBBqw">
   <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
