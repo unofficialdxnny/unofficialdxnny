@@ -24,7 +24,7 @@ Wanna talk to me?
 ***
 
 ***
-- [Tunez Therapy](https://tuneztherapy.netlify.app)
+- [infinity]()
   - Owner
   - Available on Discord
 
