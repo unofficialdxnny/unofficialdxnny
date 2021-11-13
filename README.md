@@ -1,12 +1,10 @@
 
 <i width="25px"><h1>Hey There Im Dan!</h1>
-<a href="https://discord.gg/BzstdgPp6J">
+<a href="https://discord.gg/E2eG9gH6Mw">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 
-<a href="https://open.spotify.com/user/ahmeddanial?si=Nil31S_nSYS_Y6tPMqBBqw">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
+
 
 <p align="right">
   <a href="#">
@@ -14,11 +12,11 @@
    </a>
 </p>
 
-I'm programming using Node.js language
+  <a href="https://github.com/Danny-05/Elevate-Music-App">I'm Currently Working On My First OpenSource Project</a>
 
 Wanna talk to me?
 * Open your Discord and add `Danny-05#8301`
-* Join my server (COMING SOON)
+* Join my server (https://discord.gg/E2eG9gH6Mw)
 * Email to (COMING SOON)
 
 ***
@@ -27,6 +25,7 @@ Wanna talk to me?
 - [infinity]()
   - Owner
   - Available on Discord
+  - Invite <a href="https://discord.com/oauth2/authorize?client_id=901810723146059806&permissions=70282305&scope=bot">Here</a>
 
 ***
 Hi im <a href="#">Dan</a> Im a self taught front end webdeveloper, See <a href="https://github.com/Danny-05/repositories/">my works</a><br>
