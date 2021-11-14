@@ -17,7 +17,7 @@
 Wanna talk to me?
 * Open your Discord and add `Danny-05#8301`
 * Join my server (https://discord.gg/E2eG9gH6Mw)
-  * Email to <a href="mailto:ahmeddanial324@gmail.com"></a>
+  * Email to <a href="mailto:ahmeddanial324@gmail.com">Me Here</a>
 
 ***
 
