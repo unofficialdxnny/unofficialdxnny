@@ -3,7 +3,7 @@
 <img align='right' src="https://avatars.githubusercontent.com/u/82535503?v=4" width="230">
 <p><em>Want To Become A SoftWare Engineer
   <br>
- Currently Making A Messaging App In Java 
+ Currently working on a music app and my discord musicbot EcoBot
 </em></p>
 
 ---
