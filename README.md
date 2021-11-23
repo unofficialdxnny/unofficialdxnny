@@ -7,7 +7,7 @@
 
 - :computer: I'm currently working on SurgePhish
 - :hourglass_flowing_sand:  Exploring Java & Python
-- :rocket: Would like to contribute to opensource :)
+- :rocket: Currently working on <a href="#">Elevate</a> and <a href="#">Java</a>
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" 
 - :zap: Fun fact: I think I am funny...<br>
 
