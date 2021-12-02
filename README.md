@@ -14,7 +14,6 @@
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
-<p align="left"> <a href="https://twitter.com/unofficialdxnny" target="blank"><img src="https://img.shields.io/twitter/follow/unofficialdxnny?logo=twitter&style=for-the-badge" alt="unofficialdxnny" /></a> </p>
 
 <p align="left">
 <a href="https://dev.to/danny05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="danny05" height="30" width="40" /></a>
