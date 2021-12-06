@@ -14,29 +14,15 @@
 <details>
 <summary><b>Expand🔻</summary>
 <p align=center>
-    <img alt = "SNAKE ANIMATION" src="https://github.com/unofficialdxnny/unofficialdxnny/blob/output/github-contribution-grid-snake.svg">
-    <br>
     <img alt = "CURRENT STATS" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=unofficialdxnny&theme=github_dark" />
     <br>
-    <img alt="TOP LANGUAGE USED BY REPO" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=unofficialdxnny&theme=github_dark" width=200/>
+    <img alt="TOP LANGUAGE USED BY REPO" src="https://github-readme-stats.vercel.app/api/top-langs?username=unofficialdxnny&show_icons=true&theme=dark&locale=en&layout=compact""=200/>
     <br>
-    <img alt="TOP LANGUAGE BY COMMIT" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=unofficialdxnny&theme=github_dark" width=200/>
+    <img alt="TOP LANGUAGE BY COMMIT" src="https://github-readme-stats.vercel.app/api?username=unofficialdxnny&show_icons=true&theme=dark&locale=en" width=400/>
     <br>
-    <img alt="COMMITS PER HOUR" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=unofficialdxnny8&theme=github_dark" width=200/>
+    <img alt="COMMITS PER HOUR" src="https://github-readme-streak-stats.herokuapp.com/?user=unofficialdxnny&theme=dark" alt="unofficialdxnny" width=400/>
 </details>
 
-<h2 align="left">:heart: Let's get connected:</h2>
-
-
-
-
-
----
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=unofficialdxnny&show_icons=true&theme=dark&locale=en&layout=compact" alt="unofficialdxnny" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=unofficialdxnny&show_icons=true&theme=dark&locale=en" alt="unofficialdxnny" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=unofficialdxnny&theme=dark" alt="unofficialdxnny" /></p>
 
 
   
