@@ -11,18 +11,24 @@
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" 
 - :zap: Fun fact: I think I am funny...<br>
 
+<details>
+<summary><b>Expand🔻</summary>
+<p align=center>
+    <img alt = "SNAKE ANIMATION" src="https://github.com/unofficialdxnny/unofficialdxnny/blob/output/github-contribution-grid-snake.svg">
+    <br>
+    <img alt = "CURRENT STATS" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=unofficialdxnny&theme=github_dark" />
+    <br>
+    <img alt="TOP LANGUAGE USED BY REPO" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=unofficialdxnny&theme=github_dark" width=200/>
+    <br>
+    <img alt="TOP LANGUAGE BY COMMIT" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=unofficialdxnny&theme=github_dark" width=200/>
+    <br>
+    <img alt="COMMITS PER HOUR" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=unofficialdxnny8&theme=github_dark" width=200/>
+</details>
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
 
-<p align="left">
-<a href="https://dev.to/danny05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="danny05" height="30" width="40" /></a>
-<a href="https://twitter.com/unofficialdxnny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="unofficialdxnny" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/16542571" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16542571" height="30" width="40" /></a>
-<a href="https://instagram.com/unofficialdxnny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="unofficialdxnny" height="30" width="40" /></a>
-<a href="https://hashnode.com/@dan324" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@dan324" height="30" width="40" /></a>
-<a href="https://discord.gg/JAAahWDR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="JAAahWDR" height="30" width="40" /></a>
-</p>
+
 
 
 ---
