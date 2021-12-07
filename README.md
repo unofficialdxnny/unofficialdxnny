@@ -5,7 +5,7 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm currently working on SurgePhish
+- :computer: I'm currently working Learning <a href="https://github.com/unofficialdxnny/MyJava">Java</a>
 - :hourglass_flowing_sand:  Exploring Java & Python
 - :rocket:Currently working on <a href="https://github.com/unofficialdxnny/MyJava">MyJava</a>
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" 
