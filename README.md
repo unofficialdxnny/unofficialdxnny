@@ -5,9 +5,9 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm currently Learning <a href="https://github.com/unofficialdxnny/MyJava">Java</a>
+- :computer: I'm currently Learning <a href="https://www.java.com/en/">Java</a>
 - :hourglass_flowing_sand:  Exploring Java & Python
-- :rocket:Currently working on <a href="https://github.com/unofficialdxnny/MyJava">MyJava</a>
+- :rocket:Currently working on <a href="https://github.com/unofficialdxnny/MyJava">CodeNetwork</a>
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" 
 - :zap: Fun fact: I think I am funny...<br>
 
