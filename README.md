@@ -5,7 +5,7 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm currently Learning <a href="https://www.java.com/en/">Java</a>
+- :computer: I'm currently Learning making projects in c#
 - :hourglass_flowing_sand:  Exploring Java & Python
 - :rocket:Currently working on a search-engine called <a href="https://github.com/unofficialdxnny/scratchengine">ScratchEngine</a>
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" 
