@@ -5,9 +5,9 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm currently Learning making projects in c#
+- :computer: I'm a Computer Enthusiast
 - :hourglass_flowing_sand:  Exploring Java & Python
-- :rocket:Currently working on a search-engine called <a href="https://github.com/unofficialdxnny/scratchengine">ScratchEngine</a>
+- :rocket:Currently making projects in c#
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" 
 - :zap: Fun fact: I think I am funny...<br>
 
