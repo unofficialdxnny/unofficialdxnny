@@ -9,7 +9,7 @@
 - :hourglass_flowing_sand:  Exploring Java & Python
 - :rocket:Currently making projects in c#
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" 
-- :zap: Fun fact: I think I am funny...<br>
+- :zap: Fun fact: There is no Tomorrow<br>
 
 <details>
 <summary><b>Expand🔻</summary>
