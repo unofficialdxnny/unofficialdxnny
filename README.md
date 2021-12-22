@@ -1,6 +1,7 @@
 <h1 align="center">Hello 👋, I'm unofficialdxnny (dan)</h1></h1>
 <h3 align="center">A computer enthusiast who enjoys programming :)</h3>
 
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=unofficialdxnny" alt="unofficialdxnny" /></a> </p>
 
 - :computer: I'm a Computer Enthusiast
 - :hourglass_flowing_sand:  Exploring Java & Python
