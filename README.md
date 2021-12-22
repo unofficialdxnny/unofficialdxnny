@@ -1,7 +1,6 @@
 <h1 align="center">Hello 👋, I'm unofficialdxnny (dan)</h1></h1>
 <h3 align="center">A computer enthusiast who enjoys programming :)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=unofficialdxnny&label=Profile%20views&color=0e75b6&style=flat" alt="unofficialdxnny" /> </p>
 
 - :computer: I'm a Computer Enthusiast
 - :hourglass_flowing_sand:  Exploring Java & Python
