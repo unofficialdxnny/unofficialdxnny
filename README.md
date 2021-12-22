@@ -1,6 +1,5 @@
 <h1 align="center">Hello 👋, I'm unofficialdxnny (dan)</h1></h1>
-<p align="center">Im a Computer Scientist who is currenly learning java</p>
-
+<h3 align="center">A computer enthusiast who enjoys programming :)</h3>
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
