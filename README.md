@@ -1,6 +1,9 @@
 <h1 align="center">Hello 👋, I'm unofficialdxnny (dan)</h1>
 <h3 align="center">A computer enthusiast who enjoys programming :)</h3>
 
+![snake gif](https://github.com/unofficialdxnny/unofficialdxnny/blob/output/github-contribution-grid-snake.gif)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=unofficialdxnny&label=Profile%20views&color=0e75b6&style=flat" alt="unofficialdxnny" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=unofficialdxnny" alt="unofficialdxnny" /></a> </p>
