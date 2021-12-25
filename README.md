@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=unofficialdxnny" alt="unofficialdxnny" /></a> </p>
 
-- 🔭 I’m currently working on [a e-commerce website](https://github.com/unofficialdxnny/e-commerce)
+- 🔭 I’m currently working on a [ e-commerce website](https://github.com/unofficialdxnny/e-commerce)
 
 - 🌱 I’m currently learning **.Net, Vue.js**
 
