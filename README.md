@@ -18,3 +18,5 @@
 - 📝 I regularly write articles [coming soon](coming soon)
 
 - 📫 How to reach me **ahmeddanial324@gmail.com**
+
+- ⚡ Fun fact **I believe I'm phunny**
