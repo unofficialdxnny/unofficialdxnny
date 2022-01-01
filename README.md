@@ -10,3 +10,5 @@
 - 🌱 I’m currently learning **c#**
 
 - 👯 I’m also currently working on **my portfolio**
+
+- 🤝 I want to have my own discord comunity [So feel free to join my server](https://discord.gg/tT2cS8c44p)
