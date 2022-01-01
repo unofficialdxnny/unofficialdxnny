@@ -20,3 +20,11 @@
 - 📫 How to reach me **ahmeddanial324@gmail.com**
 
 - ⚡ Fun fact **I believe I'm phunny**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/unofficialdxnny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="unofficialdxnny" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/16542571" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16542571" height="30" width="40" /></a>
+<a href="https://instagram.com/unofficialdxnny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="unofficialdxnny" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/unofficialdxnny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="unofficialdxnny" height="30" width="40" /></a>
+</p>
