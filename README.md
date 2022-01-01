@@ -5,3 +5,5 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=unofficialdxnny&theme=onedark)](https://instagram.com/unofficialdxnny)
 
 - 🔭 I’m currently working on [flixer a free moves app](https://github.com/unofficialdxnny/flixer)
+
+- 🌱 I’m currently learning **c#**
