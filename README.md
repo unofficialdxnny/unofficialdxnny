@@ -14,7 +14,7 @@
 - 🤝 I want to have my own discord comunity [So feel free to join my server](https://discord.gg/tT2cS8c44p)
 
 - 👨‍💻 All of my projects are available at [coming soon](coming soon)
-- 
+
 - 📝 I regularly write articles [coming soon](coming soon)
 
 - 📫 How to reach me **ahmeddanial324@gmail.com**
