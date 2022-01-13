@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **javascript**
 
-- 👯 I’m also currently working on **my portfolio**
+- 👯 I’m also currently working on **socialbrute**
 
 - 🤝 I want to have my own discord comunity [So feel free to join my server](https://discord.gg/tT2cS8c44p)
 
