@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [flixer a free moves app](https://github.com/unofficialdxnny/flixer)
 
-- 🌱 I’m currently learning **c#**
+- 🌱 I’m currently learning **javascript**
 
 - 👯 I’m also currently working on **my portfolio**
 
