@@ -32,7 +32,9 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=unofficialdxnny&show_icons=true&locale=en" alt="unofficialdxnny" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=unofficialdxnny&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unofficialdxnny)](https://github.com/anuraghazra/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=unofficialdxnny&" alt="unofficialdxnny" /></p>
 
