@@ -21,4 +21,5 @@
   - Working with Python and `c#`
   - Learning `JS`
   - Frontend Web Developer
+  - Learning `JS`
   
