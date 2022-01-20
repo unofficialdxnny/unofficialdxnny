@@ -2,6 +2,10 @@
 
 <h3 align="center">A passionate programmer from Planet Earth</h3>
 
+
+![snake gif](https://github.com/unofficialdxnny/unofficialdxnny/blob/output/github-contribution-grid-snake.svg)
+
+
 ### :octocat: My stats
   <table>
 
