@@ -15,9 +15,9 @@
   <table>
 
   <tr>
-      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=unofficialdxnny&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight"/></td>
+      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=unofficialdxnny&show_icons=true&count_private=true&include_all_commits=true&theme=radical"/></td>
      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unofficialdxnny&layout=compact&theme=radical"/></td>
-    <td><img width="400px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=unofficialdxnny&show_icons=true&locale=en&layout=compact&theme=tokyonight"/></td>
+    <td><img width="400px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=unofficialdxnny&show_icons=true&locale=en&layout=compact&theme=radical"/></td>
   
   </tr>   
 </table>
@@ -26,7 +26,7 @@
   
 
   
-- 🔭 I’m currently working on [Github-Follower-Bot](https://github.com/unofficialdxnny/github-follower-bot)
+- 🔭 I’m currently working on []()
 
 - 🌱 I’m currently learning **JS and Flutter**
 
