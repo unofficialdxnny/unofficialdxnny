@@ -31,12 +31,14 @@
 <br>
 
   
-    <table>
 
+<table>
   <tr>
-      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=unofficialdxnny&show_icons=true&count_private=true&include_all_commits=true&theme=radical"/></td>
-     <td><a href="https://github.com/unofficialdxnny/elevate-music-app">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=unofficialdxnny&repo=elevate-music-app&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+      <td><a href="https://github.com/unofficialdxnny/electron-custom-frame">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=unofficialdxnny&repo=electron-custom-frame&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a></td>
+     <td><a href="https://github.com/unofficialdxnny/socialbrute">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=unofficialdxnny&repo=socialbrute&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a></td>
     <td><a href="https://github.com/unofficialdxnny/elevate-music-app">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=unofficialdxnny&repo=elevate-music-app&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
@@ -46,11 +48,6 @@
 </table>
 
 <table>
-<p align="left">
-<a href="https://github.com/unofficialdxnny/socialbrute">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=unofficialdxnny&repo=socialbrute&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
 
 
   
