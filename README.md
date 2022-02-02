@@ -35,7 +35,9 @@
 
   <tr>
       <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=unofficialdxnny&show_icons=true&count_private=true&include_all_commits=true&theme=radical"/></td>
-     <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unofficialdxnny&layout=compact&theme=radical"/></td>
+     <td><a href="https://github.com/unofficialdxnny/elevate-music-app">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=unofficialdxnny&repo=elevate-music-app&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a></td>
     <td><a href="https://github.com/unofficialdxnny/elevate-music-app">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=unofficialdxnny&repo=elevate-music-app&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a><td>
@@ -49,14 +51,8 @@
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=unofficialdxnny&repo=socialbrute&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-</p>
-  
-<p align="center">
-<a href="https://github.com/unofficialdxnny/elevate-music-app">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=unofficialdxnny&repo=elevate-music-app&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
 
-</p>
+
   
  <br>
   
