@@ -54,7 +54,7 @@
   
 - 🔭 I’m currently working on []()
 
-- 🌱 I’m currently learning **JS and Flutter**
+- 🌱 I’m currently learning **JS**
 
 - 🤝 I’m looking for help with **Opensource Projects**
 
