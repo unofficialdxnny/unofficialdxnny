@@ -56,13 +56,12 @@
 
 - 🌱 I’m currently learning **JS**
 
-- 🤝 I’m looking for help with **Opensource Projects**
+  - 🤝 I’m looking for help with <a href="https://github.com/unofficialdxnny/ToolX">**ToolX**</a>
 
 - 💬 Ask me about **Electron, Webdev**
 
 - 📫 How to reach me **https://discord.gg/G4KvuBTGt6**
 
-- ⚡ Fun fact **I think im funny...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
