@@ -56,7 +56,7 @@
 
 - 🌱 I’m currently learning **JS**
 
-  - 🤝 I’m looking for help with <a href="https://github.com/unofficialdxnny/ToolX">**ToolX**</a>
+- 🤝 I’m looking for help with <a href="https://github.com/unofficialdxnny/ToolX">**ToolX**</a>
 
 - 💬 Ask me about **Electron, Webdev**
 
