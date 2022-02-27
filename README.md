@@ -52,7 +52,7 @@
  <br>
   
   
-- 🔭 I’m currently working on []()
+- 🔭 I’m currently working on [Discord bots]()
 
 - 🌱 I’m currently learning **JS**
 
