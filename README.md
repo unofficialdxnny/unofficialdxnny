@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm unofficialdxnny</h1>
 
+
 <h3 align="center">A passionate programmer from Planet Earth</h3>
 
 
@@ -63,6 +64,10 @@
 - 📫 How to reach me **https://discord.gg/G4KvuBTGt6**
 
 
+## Spotify:
+  
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ahmeddanial&cover_image=true&theme=novatorem&bar_color=ff00ea&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=ahmeddanial&redirect=true)
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/unofficialdxnny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="unofficialdxnny" height="30" width="40" /></a>
