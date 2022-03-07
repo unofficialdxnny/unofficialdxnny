@@ -59,7 +59,7 @@
 
 - 🤝 I’m looking for help with <a href="https://github.com/unofficialdxnny/ToolX">**ToolX**</a>
 
-- 💬 Ask me about **Electron, Webdev**
+- 💬 Ask me about **Tech**/**Games**/**Programming**
 
 - 📫 How to reach me **https://discord.gg/G4KvuBTGt6**
 
