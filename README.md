@@ -55,7 +55,7 @@
   
 - 🔭 I’m currently working on [Discord bots]()
 
-- 🌱 I’m currently learning **JS**
+- 🌱 I’m currently learning **Java**
 
 - 🤝 I’m looking for help with <a href="https://github.com/unofficialdxnny/ToolX">**ToolX**</a>
 
