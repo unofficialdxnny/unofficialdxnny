@@ -57,7 +57,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 🤝 I’m looking for help with <a href="https://github.com/unofficialdxnny/ToolX">**ToolX**</a>
+- 🤝 I’m looking for help with <a href="https://github.com/unofficialdxnny/Melody">**Melody**</a>
 
 - 💬 Ask me about **Tech**/**Games**/**Programming**
 
