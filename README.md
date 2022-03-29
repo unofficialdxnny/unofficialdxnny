@@ -53,11 +53,9 @@
  <br>
   
   
-- 🔭 I’m currently working on [Discord bots]()
+- 🔭 I’m currently working on <a href="https://github.com/unofficialdxnny/Melody">**Melody**</a>
 
 - 🌱 I’m currently learning **Java**
-
-- 🤝 I’m looking for help with <a href="https://github.com/unofficialdxnny/Melody">**Melody**</a>
 
 - 💬 Ask me about **Tech**/**Games**/**Programming**
 
