@@ -55,7 +55,7 @@
   
 - 🔭 I’m currently working on <a href="https://github.com/unofficialdxnny/Melody">**Melody**</a>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently working with **Python**
 
 - 💬 Ask me about **Tech**/**Games**/**Programming**
 
