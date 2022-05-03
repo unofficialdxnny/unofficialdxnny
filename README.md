@@ -8,7 +8,7 @@ Enjoy making websites Python scripts and using frameworks
 * 🖥️  See my portfolio at [HERE](http://unofficialdxnny.netlify.app)
 * ✉️  You can contact me at [ahmeddanial324@gmail.com](mailto:ahmeddanial324@gmail.com)
 * 🚀  I'm currently working on [InstagramFollowBot](http://github.com/unofficialdxnny/InstagramFollowBot)
-* 🧠  I'm learning JS
+* 🧠  I'm learning C++
 
 <a href="https://www.twitch.tv/unofficialdxnny" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/unofficialdxnny?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=ffffff&label=TWITCH+STATUS" /></a>
