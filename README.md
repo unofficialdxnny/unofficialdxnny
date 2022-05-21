@@ -1,7 +1,7 @@
 Hey 👋 I am unofficialdxnny
 ================================
 
-Enjoy making websites Python scripts and using frameworks
+Enjoy making Websites, Python scripts and using Frameworks
 ---------------------------------------------------------
 
 * 🌍  I'm based in London
@@ -13,7 +13,7 @@ Enjoy making websites Python scripts and using frameworks
 <a href="https://www.twitch.tv/unofficialdxnny" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/unofficialdxnny?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=ffffff&label=TWITCH+STATUS" /></a>
 
-### Skills
+### 🎓 Skills 
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
@@ -38,15 +38,15 @@ src="https://img.shields.io/twitch/status/unofficialdxnny?logo=twitchsx&style=fo
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-### Workspace
+### 💻 Workspace
 
 <p align="left"> <a href="" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/88px-Windows_logo_-_2012.svg.png?20200408080750" width="32" height="32" /></a> <a href="" target="_blank" rel="noreferrer"><img src="https://pnggrid.com/wp-content/uploads/2021/06/Windows-11-Icon-Logo.png" width="32" height="32" />
   
-### Socials
+### ➤ Socials
 
 <p align="left"> <a href="https://www.codepen.io/unofficialdxnny" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.codesandbox.com/unofficialdxnny" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox.svg" width="32" height="32" /></a> <a href="https://www.dev.to/unofficialdxnny" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/unofficialdxnny" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/unofficialdxnny" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/unofficialdxnny" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/unofficialdxnny" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/unofficialdxnny" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/unofficialdxnny" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/unofficialdxnny" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
 
-### Badges
+### 💯 Badges
 
 <b>My GitHub Stats</b>
 
