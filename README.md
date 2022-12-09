@@ -7,7 +7,7 @@ Enjoy making Websites, Python scripts and using Frameworks
 * 🌍  I'm based in London
 * 🖥️  See my portfolio at [HERE](http://unofficialdxnny.netlify.app)
 * ✉️  You can contact me on [Email](mailto:ahmeddanial324@gmail.com)
-* 🚀  I'm currently working on [Mint](https://github.com/unofficialdxnny/Mint)
+* 🚀  I'm currently working on [StickFight](https://github.com/unofficialdxnny/StickFight)
 * 🧠  I'm improving my `Python` skills
 
 <a href="https://www.twitch.tv/unofficialdxnny" target="_blank" rel="noreferrer"><img
@@ -52,8 +52,4 @@ src="https://img.shields.io/twitch/status/unofficialdxnny?logo=twitchsx&style=fo
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/unofficialdxnny"><img src="https://github-readme-stats.vercel.app/api?username=unofficialdxnny&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="unofficialdxnny's GitHub stats" /></a>
-
-<a href="http://www.github.com/unofficialdxnny"><img src="https://github-readme-streak-stats.herokuapp.com/?user=unofficialdxnny&stroke=000000&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=000000&currStreakLabel=0891b2&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
-
-<a href="http://www.github.com/unofficialdxnny"><img src="https://activity-graph.herokuapp.com/graph?username=unofficialdxnny&bg_color=ffffff&color=000000&line=0891b2&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="https://github.com/unofficialdxnny" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unofficialdxnny&langs_count=10&title_color=facc15&text_color=000000&icon_color=facc15&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
