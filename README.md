@@ -1,6 +1,6 @@
 **Hey There**
 <br>
-I'm a self-taught passionate FrontEnd developer from The United Kingdom 
+I'm a self-taught passionate FrontEnd and a CLI Application developer from The United Kingdom 
 
 <a href="https://www.instagram.com/unofficialdxnny/">
   <img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
