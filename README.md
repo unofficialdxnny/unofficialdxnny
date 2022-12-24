@@ -20,7 +20,7 @@ I'm a self-taught passionate FrontEnd and a CLI Application developer from The U
 
 - 💼 Frontend Webdeveloper.
 
-- 📈 Built **Snapif**, **Twiends**, **SocialBrute** and many more cli applications.
+- 📈 Built **Snapify**, **Twiends**, **SocialBrute** and many more cli applications.
 
 - ❤️ I love writing Python, and building fun experiments on CLI and Web.
 
