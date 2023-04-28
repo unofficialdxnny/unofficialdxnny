@@ -7,16 +7,20 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ----
 
 
-Im Dan! I enjoy programming with Python and JS crazy right. Also im a genius but people just dont know it yet... I love opensource so well everything here is opensourcce and you can contribute if you'd like
+Im Dan! I enjoy programming with Python and JS crazy right. Also im a genius but people just dont know it yet... <br>I love opensource so well everything here is opensourcce and you can contribute if you'd like.
 
 *   🌍  I'm based in Godalming
 *   🖥️  See my portfolio at [MyPortfolio](http://unofficialdxnny.netlify.app)
 *   ✉️  You can contact me at [ahmeddanial324@gmail.com](mailto:ahmeddanial324@gmail.com)
 *   🚀  I'm currently working on [Freshy](http://github.com/unofficialdxnny/Freshy)
-*   ⚡  You will laugh at this<a href="https://www.github.com/unofficialdxnny" target="_blank" rel="noreferrer"><img
+*   ⚡  You will laugh at this
+
+<a href="https://www.github.com/unofficialdxnny" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/unofficialdxnny?logo=github&style=for-the-badge&color=0891b2&labelColor=181824" /></a><a href="https://www.twitter.com/@dxnny2005" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/@dxnny2005?logo=twitter&style=for-the-badge&color=0891b2&labelColor=181824"
-                /></a>### Skills 
+                /></a>
+                
+### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
