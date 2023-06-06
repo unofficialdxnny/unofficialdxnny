@@ -12,7 +12,7 @@ Im Dan! I enjoy programming with Python and JS crazy right. Also im a genius but
 *   🌍  I'm based in Godalming
 *   🖥️  See my portfolio at [MyPortfolio](http://unofficialdxnny.netlify.app)
 *   ✉️  You can contact me at [ahmeddanial324@gmail.com](mailto:ahmeddanial324@gmail.com)
-*   🚀  I'm currently working on [BlackFox]("https://github.com/unofficialdxnny/BlackFox")
+*   🚀  I'm currently working on [MyPortfolio](http://github.com/unofficialdxnny/blackbox)
 *   ⚡  You will laugh at this
 
 <a href="https://www.github.com/unofficialdxnny" target="_blank" rel="noreferrer"><img
