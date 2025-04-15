@@ -9,5 +9,6 @@ I'm 19 years old and have a deep passion for everything related to computing . C
 
 * 🌍  I'm based in London | UK
 * 🖥️  See my portfolio at [MyPortfolio](http://unofficialdxnny.com)
-* 🌍  Currently working on a Student Dashboard App for my University | Private Project
+* 🧑‍💼  Currently working on a Student Dashboard App for my University | Private Project
+
 
