@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend | Python | GFX | VFX
 -----------------------------
 
-I'm 19 years old and have a deep passion for everything related to computing . Currently building web projects using my frontend skills. I love creating engaging and user-friendly web experiences using various frameworks and technologies. I'm currently pursuing a degree in Information Technology and Graphics Design, where I'm constantly honing my skills and knowledge in these fields. Aside from my tech interests, I'm an avid sports enthusiast. Table tennis and football are my favorite sports, and I enjoy playing and watching them in my free time.
+I'm 20 years old and have a deep passion for everything related to computing . Currently building web projects using my frontend skills. I love creating engaging and user-friendly web experiences using various frameworks and technologies. I'm currently pursuing a degree in Information Technology and Graphics Design, where I'm constantly honing my skills and knowledge in these fields. Aside from my tech interests, I'm an avid sports enthusiast. Table tennis and football are my favorite sports, and I enjoy playing and watching them in my free time.
 
 * 🌍  I'm based in London | UK
 * 🖥️  See my portfolio at [MyPortfolio](http://unofficialdxnny.com)
